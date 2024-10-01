@@ -1,2 +1,5 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+public class BiolinksQuantumIntegration {
+    public func hooray() -> String {
+        return "It worked!"
+    }
+}
